@@ -3,7 +3,7 @@ ts.txt
 .htaccess
 *.orig
 sitemap.xml
-#wp-content/uploads/
+wp-content/uploads/
 robots.txt
 .htaccess
 cgi-bin/
